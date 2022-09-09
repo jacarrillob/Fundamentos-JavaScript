@@ -1,0 +1,13 @@
+{
+  "name": "1-intro",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto con JS en Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node js-01.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Carrillo",
+  "license": "ISC"
+}

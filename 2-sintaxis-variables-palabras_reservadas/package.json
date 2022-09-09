@@ -1,0 +1,16 @@
+{
+  "name": "2-sintaxis-variables-palabras_reservadas",
+  "version": "1.0.0",
+  "description": "Sintaxis, variables y palabras resewrvadas en JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "variables",
+    "palabras",
+    "reservadas"
+  ],
+  "author": "Jose A. Carrillo",
+  "license": "ISC"
+}
